@@ -21,7 +21,7 @@ OS: Linux (Ubuntu)
 Проверяем  открытые порты с помощью nmap
    nmap -sC -sV -Pn 10.129.101.185
    
-![[Pasted image 20260924022452.png]]
+![](img/34.png)
    
    Открыты только два порта:
    
@@ -31,7 +31,7 @@ OS: Linux (Ubuntu)
 
 Добавляем домен в `/etc/hosts`:
 
-![](img/34.png)
+![](img/2.png)
 
 ## 🔎 Перечисление (Enumeration)
 ### 2. Анализ веб-сайта
