@@ -1,4 +1,4 @@
-# Nexus - Hack The Box Writeup
+# 💻 Nexus - Hack The Box Writeup
 
 ## 📋 Информация о машине
 
