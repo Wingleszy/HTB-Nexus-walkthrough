@@ -16,7 +16,7 @@ OS: Linux (Ubuntu)
    
    Должно появиться сообщение "Initialization Sequence Completed"
    
-   ![[1.png]]
+   ![](img/1.png)
 
 Проверяем  открытые порты с помощью nmap
    nmap -sC -sV -Pn 10.129.101.185
